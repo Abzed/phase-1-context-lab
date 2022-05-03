@@ -1,4 +1,11 @@
-/* Your Code Here */
+function createEmployeeRecord(firstName, familyName, title, payPerHour){
+    const timeInEvents = []
+    const timeOutEvents = []
+
+    function createEmployeeRecords(array){
+
+    }
+}
 
 /*
  We're giving you this function. Take a look at it, you might see some usage
